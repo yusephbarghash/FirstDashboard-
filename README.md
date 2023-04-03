@@ -1,1 +1,1 @@
-"### Simple dashboard for learning purposes" 
+Simple dashboard for learning purposes
