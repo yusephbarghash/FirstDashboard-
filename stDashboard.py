@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 import io
 
-df = pd.read_csv('fifa_eda.csv')
+df = pd.read_csv('data/fifa_eda.csv')
 df['Joined'] = df['Joined'].astype(str)
 st.set_page_config(layout='wide' , initial_sidebar_state="expanded")
 
